@@ -1,7 +1,7 @@
 ### LabVIEW is a development environment and platform for running programs written in the National Instruments "G" graphical programming language.
 
 #### The program is quite simple, it duplicates the number from one Edit field to another Edit when you press a button. Another button performs - exit (called stop = close window / program).
-![image](https://github.com/user-attachments/assets/42c13488-8910-45f8-803f-0179eb3cd0b1)
+![image](https://github.com/user-attachments/assets/3ec8f250-eede-42b9-b2ba-c81d6cdd1e85)
 
 #### The program is created to implement the installer. The compiled program is stored in the My Application folder, which can be launched and used. The created program installer is stored in the My Installer folder.
 ### The installation process looks like this
